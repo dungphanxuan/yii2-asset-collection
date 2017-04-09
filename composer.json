@@ -20,7 +20,7 @@
   ],
   "require": {
     "yiisoft/yii2": "*",
-    "bower-asset/froala-wysiwyg-editor": "2.5.0",
+    "bower-asset/froala-wysiwyg-editor": "*",
     "bower-asset/admin-lte": "^2.0",
     "bower-asset/font-awesome": "^4.0",
     "bower-asset/html5shiv": "^3.0",
